@@ -1,4 +1,5 @@
 # 2020 종합 설계 프로젝트
+[포스터 보기](https://raw.githubusercontent.com/ke-nai/2020Capstone/main/%EC%A0%84%EC%B2%B4%20%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
 
 ## 전체 구성도
 ![image](https://user-images.githubusercontent.com/66747535/100089569-3c345700-2e95-11eb-9621-36ad8882e3b1.png)
