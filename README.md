@@ -1,6 +1,10 @@
 # 2020 종합 설계 프로젝트
 [포스터 보기](https://raw.githubusercontent.com/ke-nai/2020Capstone/main/%EC%A0%84%EC%B2%B4%20%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
 
+보드에 사용된 아두이노 알고리즘,
+앱에 구현된 기능, 보관함의 대여 기능을 설명합니다.
+구글 지도, 파이어베이스 등의 인증 정보가 포함되어있기 때문에 코드는 업로드하지 않았습니다.
+
 ## 전체 구성도
 ![image](https://user-images.githubusercontent.com/66747535/100089569-3c345700-2e95-11eb-9621-36ad8882e3b1.png)
 
